@@ -10,9 +10,9 @@
 <br>
 
 <p align="left">
-  <a href="https://twitter.com/awsmankit_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
-  </a>
+<!--   <a href="https://twitter.com/shivamjain_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20%40shivamjain_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
+  </a> -->
 </p>
 
 👨‍💻 I'm an enthusiastic Web Developer dedicated to crafting captivating digital experiences through innovative technologies.
@@ -31,9 +31,9 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shivam-jain-54772726a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh282" height="30" width="40" /></a>
-<a href="https://kaggle.com/awsmankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awsmankitt" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shivamjain_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsmankit" height="30" width="40" /></a>
-<!-- <a href="https://medium.com/@awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awsmankit" height="30" width="40" /></a> -->
+<a href="https://kaggle.com/shivamjaint" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamjaint" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shivamjain_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamjain" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@shivamjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamjain" height="30" width="40" /></a> -->
 </p>
 
 <br/>
@@ -45,8 +45,8 @@
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsmankit&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="awsmankit" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="awsmankit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamjain&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="shivamjain" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamjain&show_icons=true&theme=dark&hide_border=true&locale=en" alt="shivamjain" /></p>
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
